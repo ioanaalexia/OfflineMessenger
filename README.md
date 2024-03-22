@@ -15,5 +15,5 @@ Compile the Application:
 # How to use:
 1. Open two terminal windows.
 2. In the first terminal, run the server: ```./server```
-3. In the second terminal, run the client, specifying the server IP and port (default 2908): ```./client 127.0.0.1 2908```
+3. In the second terminal, run the client, specifying the server IP and port (2908 in this case): ```./client 127.0.0.1 2908```
 4. You cand have as many clients (users of the application) as you want by reapting step 3.
